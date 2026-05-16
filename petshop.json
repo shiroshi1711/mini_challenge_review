@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Milo",
+        "species": "poodle",
+        "age": 2,
+        "sound": "woof",
+        "owner": "Friend"
+    },
+    {
+        "name": "Buddy",
+        "species": "golden retriever",
+        "age": 5,
+        "sound": "woof",
+        "owner": "Papi"
+    },
+    {
+        "name": "Kitty",
+        "species": "maine coon",
+        "age": 3,
+        "sound": "meow",
+        "owner": "Shiro"
+    },
+    {
+        "name": "Crow",
+        "species": "bird",
+        "age": 1,
+        "sound": "caw ",
+        "habitat": "woodlands"
+    }
+]
